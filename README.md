@@ -90,6 +90,11 @@ Outputs:	"water gaps" - curated, confirmed list of detected water gaps
 		Ridge trend direction,
 		Length,
 		Sinuosity,
+		Stream gradient,
+		Prominence,
+		Hydrographic information,
+		Geologic information,
+		
     
  ## Development flow
  1. Algorithm 2
